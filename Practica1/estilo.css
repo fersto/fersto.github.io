@@ -1,0 +1,38 @@
+#menu li{
+	padding: 15px;
+	display: inline;
+	background-color:#33CEFF;
+	font-family:Arial;
+	font-size: 16px;
+	width:2000px;
+}
+#imagenes_c{
+	vertical-align:middle;
+	width:200px;
+	height: 50px;
+	border-radius:8px;
+	padding: 5px;
+}
+#titulo{
+	vertical-align:middle;
+	align: center;
+	font-size: 50px;
+	color:blue;
+}
+#superior{
+	vertical-align:middle;
+	align: center;
+	background-color:orange;
+}
+#p_principal{
+	color:black;
+	text-align: justify;
+	font-size: 24px;
+}
+#p_acerca{
+	color:black;
+	text-align: justify;
+	font-size: 24px;
+}
+
+
